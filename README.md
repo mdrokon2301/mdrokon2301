@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rokonuzzaman</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate MERN Stack developer.</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
